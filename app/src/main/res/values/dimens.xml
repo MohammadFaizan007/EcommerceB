@@ -1,0 +1,52 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">120dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="view_width_small">1dp</dimen>
+    <dimen name="view_width_xsmall">0.5dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+
+    <dimen name="text_size_xsmall">8dp</dimen>
+    <dimen name="text_size_small">10dp</dimen>
+    <dimen name="text_size_medium">12dp</dimen>
+    <dimen name="text_size_xmedium">14dp</dimen>
+    <dimen name="text_size_large">16dp</dimen>
+    <dimen name="headerTextSize">25sp</dimen>
+    <dimen name="newsMoreTextSize">12sp</dimen>
+    <dimen name="loginViewsMargin">20dp</dimen>
+    <dimen name="bottom_bar_item_top_padding">6dp</dimen>
+    <dimen name="bottom_bar_item_bottom_padding">8dp</dimen>
+    <dimen name="bottom_bar_item_side_padding">10dp</dimen>
+
+    <dimen name="bottom_bar_icon_size">24dp</dimen>
+    <dimen name="bottom_bar_icon_top_margin_inactive">2dp</dimen>
+    <dimen name="bottom_bar_icon_top_margin_active">0dp</dimen>
+
+    <dimen name="bottom_bar_title_top_margin">4dp</dimen>
+    <dimen name="bottom_bar_title_inactive_font_size">8sp</dimen>
+
+    <dimen name="bottom_bar_elevation">8dp</dimen>
+    <dimen name="bottom_bar_min_height">50dp</dimen>
+    <dimen name="sephiroth_range_progress_bar_height_material">2dp</dimen>
+    <dimen name="sephiroth_range_progress_bar_tick_mark_height_material">3.5dp</dimen>
+    <dimen name="sephiroth_range_progress_bar_tick_mark_width_material">3.5dp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="icon_dimension">25dp</dimen>
+
+</resources>

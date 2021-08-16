@@ -1,0 +1,274 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.inlog.ecommerce"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:6:5-79
+11-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:7:5-81
+12-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:8:5-81
+13-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:9:5-67
+14-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->[com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:12:5-80
+15-->[com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:12:22-77
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+16-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:10:5-76
+16-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+22
+23    <application
+23-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:11:5-88:19
+24        android:name="androidx.multidex.MultiDexApplication"
+25        android:allowBackup="true"
+25-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:hardwareAccelerated="false"
+28-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:13:9-44
+29        android:label="@string/app_name"
+29-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:14:9-41
+30        android:roundIcon="@drawable/inloglogo"
+30-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:15:9-48
+31        android:supportsRtl="true"
+31-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:16:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme.NoActionBar" >
+33-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:17:9-52
+34        <activity
+34-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:19:9-21:59
+35            android:name="com.inlog.ecommerce.myaccount.AccountActivity"
+35-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:19:19-60
+36            android:hardwareAccelerated="true"
+36-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:21:13-47
+37            android:screenOrientation="portrait" />
+37-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:20:13-49
+38        <activity
+38-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:22:9-25:52
+39            android:name="com.inlog.ecommerce.activity.ForgotPasswordActivity"
+39-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:23:13-60
+40            android:hardwareAccelerated="true"
+40-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:24:13-47
+41            android:screenOrientation="portrait" />
+41-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:25:13-49
+42        <activity android:name="com.inlog.ecommerce.activity.ordersummeryActivity" />
+42-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:26:9-67
+42-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:26:19-64
+43        <activity android:name="com.inlog.ecommerce.activity.CheckoutActivity" />
+43-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:27:9-63
+43-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:27:19-60
+44        <activity android:name="com.inlog.ecommerce.activity.orderdetailsActivity" />
+44-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:28:9-67
+44-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:28:19-64
+45        <activity android:name="com.inlog.ecommerce.activity.MyOrdersActivity" />
+45-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:29:9-63
+45-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:29:19-60
+46        <activity android:name="com.inlog.ecommerce.activity.WishlistActivity" />
+46-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:30:9-63
+46-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:30:19-60
+47        <activity
+47-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:31:9-34:52
+48            android:name="com.inlog.ecommerce.activity.MakePaymentActivity"
+48-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:32:13-57
+49            android:hardwareAccelerated="true"
+49-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:33:13-47
+50            android:screenOrientation="portrait" />
+50-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:34:13-49
+51        <activity
+51-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:35:9-37:52
+52            android:name="com.inlog.ecommerce.activity.RatingActivity"
+52-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:36:13-52
+53            android:screenOrientation="portrait" />
+53-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:37:13-49
+54
+55        <meta-data
+55-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:39:9-41:71
+56            android:name="com.google.android.geo.API_KEY"
+56-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:40:13-58
+57            android:value="AIzaSyC7xQImwNshslxmkpX641DWzC1AOguZad0" />
+57-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:41:13-68
+58
+59        <uses-library
+59-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:43:9-45:40
+60            android:name="org.apache.http.legacy"
+60-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:44:13-50
+61            android:required="false" />
+61-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:45:13-37
+62
+63        <activity
+63-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:47:9-60:20
+64            android:name="com.inlog.ecommerce.activity.SplashActivity"
+64-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:48:13-52
+65            android:screenOrientation="portrait"
+65-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:49:13-49
+66            android:theme="@style/AppTheme.NoActionBar" >
+66-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:50:13-56
+67            <intent-filter>
+67-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:51:13-55:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:52:17-69
+68-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:52:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:54:17-77
+70-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:54:27-74
+71            </intent-filter>
+72
+73            <meta-data
+73-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:57:13-59:66
+74                android:name="android.app.default_searchable"
+74-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:58:17-62
+75                android:value=".options.SearchResultsActivity" />
+75-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:59:17-63
+76        </activity>
+77        <activity
+77-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:61:9-64:59
+78            android:name="com.inlog.ecommerce.activity.LoginActivity"
+78-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:62:13-51
+79            android:screenOrientation="portrait"
+79-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:63:13-49
+80            android:theme="@style/AppTheme.NoActionBar" />
+80-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:64:13-56
+81        <activity android:name="com.inlog.ecommerce.activity.RegisterActivity" />
+81-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:65:9-63
+81-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:65:19-60
+82        <activity
+82-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:66:9-68:52
+83            android:name="com.inlog.ecommerce.activity.mapactivity"
+83-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:67:13-49
+84            android:screenOrientation="portrait" />
+84-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:68:13-49
+85        <activity
+85-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:69:9-73:59
+86            android:name="com.inlog.ecommerce.activity.MainActivity"
+86-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:70:13-50
+87            android:hardwareAccelerated="true"
+87-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:71:13-47
+88            android:screenOrientation="portrait"
+88-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:72:13-49
+89            android:theme="@style/AppTheme.NoActionBar" />
+89-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:73:13-56
+90        <activity
+90-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:74:9-79:52
+91            android:name="com.inlog.ecommerce.activity.ItemDetailsActivity"
+91-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:75:13-57
+92            android:hardwareAccelerated="true"
+92-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:76:13-47
+93            android:label="Product Details"
+93-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:77:13-44
+94            android:parentActivityName="com.inlog.ecommerce.activity.ItemDetailsActivity"
+94-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:78:13-71
+95            android:screenOrientation="portrait" />
+95-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:79:13-49
+96        <activity
+96-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:80:9-83:52
+97            android:name="com.inlog.ecommerce.activity.CartListActivity"
+97-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:81:13-54
+98            android:hardwareAccelerated="true"
+98-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:82:13-47
+99            android:screenOrientation="portrait" />
+99-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:83:13-49
+100        <activity
+100-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:84:9-87:52
+101            android:name="com.inlog.ecommerce.activity.ProductListActivity"
+101-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:85:13-57
+102            android:hardwareAccelerated="true"
+102-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:86:13-47
+103            android:screenOrientation="portrait" />
+103-->/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:87:13-49
+104        <activity
+104-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:14:9-20:20
+105            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+105-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:15:13-91
+106            android:exported="false"
+106-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:16:13-37
+107            android:label="@string/places_autocomplete_label"
+107-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:17:13-62
+108            android:theme="@style/PlacesAutocompleteOverlay"
+108-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:18:13-61
+109            android:windowSoftInputMode="adjustResize" >
+109-->[com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:19:13-55
+110        </activity>
+111
+112        <service
+112-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:29:9-35:19
+113            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+113-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:30:13-103
+114            android:exported="false" >
+114-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:31:13-37
+115            <meta-data
+115-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:32:13-34:39
+116                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+116-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:33:17-94
+117                android:value="cct" />
+117-->[com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:34:17-36
+118        </service>
+119        <service
+119-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:26:9-30:19
+120            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+120-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:27:13-117
+121            android:exported="false"
+121-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:28:13-37
+122            android:permission="android.permission.BIND_JOB_SERVICE" >
+122-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:29:13-69
+123        </service>
+124
+125        <receiver
+125-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:32:9-34:40
+126            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+126-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:33:13-132
+127            android:exported="false" />
+127-->[com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:34:13-37
+128
+129        <activity
+129-->[com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+130            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+130-->[com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+131            android:exported="false"
+131-->[com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+132            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+132-->[com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+133
+134        <meta-data
+134-->[com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+135            android:name="com.google.android.gms.version"
+135-->[com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+136            android:value="@integer/google_play_services_version" />
+136-->[com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+137
+138        <provider
+138-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+139            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+139-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+140            android:authorities="com.inlog.ecommerce.lifecycle-process"
+140-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+141            android:exported="false"
+141-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+142            android:multiprocess="true" />
+142-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+143    </application>
+144
+145</manifest>

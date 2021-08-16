@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b409163c302139e0934db5a8af128cb/media-1.0.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2178,2244,2305,2371",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "2239,2300,2366,2433"
+                    }
+                },
+                {
+                    "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/values-v24/styles.xml",
+                    "from": {
+                        "startLines": "3,11,24,29,32,36,40",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,484,1220,1459,1644,1890,2054",
+                        "endLines": "9,22,27,31,35,38,42",
+                        "endColumns": "12,12,12,12,12,12,12",
+                        "endOffsets": "478,1214,1453,1639,1885,2048,2214"
+                    },
+                    "to": {
+                        "startLines": "2,9,21,25,28,38,41",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,482,1217,1455,1640,2438,2601",
+                        "endLines": "8,20,24,27,31,40,43",
+                        "endColumns": "12,12,12,12,12,12,12",
+                        "endOffsets": "477,1212,1450,1635,1881,2596,2761"
+                    }
+                },
+                {
+                    "source": "/Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b1956f5892706138178c449e927e4454/appcompat-1.2.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    },
+                    "to": {
+                        "startLines": "32,33",
+                        "startColumns": "4,4",
+                        "startOffsets": "1886,2043",
+                        "endColumns": "156,134",
+                        "endOffsets": "2038,2173"
+                    }
+                }
+            ]
+        }
+    ]
+}

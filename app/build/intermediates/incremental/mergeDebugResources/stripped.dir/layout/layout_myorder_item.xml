@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/mainlayout">
+    <TextView
+        android:id="@+id/orderreceiveddate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sun o4 Jul 2021,10:13 am"
+        android:layout_marginTop="@dimen/margin_10dp"
+        android:layout_marginLeft="@dimen/margin_10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/margin_10dp">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_schedule"
+            android:layout_marginTop="@dimen/margin_20dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/rounded_cornertwo"
+            android:layout_margin="@dimen/margin_10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="@dimen/margin_10dp">
+                <TextView
+                    android:id="@+id/date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sun o4 Jul 2021"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:id="@+id/orderno"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SO00204/O00074"/>
+                <TextView
+                    android:id="@+id/amount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="20000"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+                    <TextView
+                        android:id="@+id/noitems"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="1 Items"
+                        android:layout_weight="1"
+                        android:textAlignment="textStart"/>
+                    <TextView
+                        android:id="@+id/orderstate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Order Placed"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:layout_marginRight="@dimen/margin_10dp"/>
+
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <Button
+                        android:id="@+id/shopratingobj"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/transparent"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="@dimen/margin_10dp"
+                        android:text="Wirte Shop Review"
+                        android:textColor="@color/list_selected"
+                        android:textSize="13dp"
+                        android:layout_marginBottom="-10dp"/>
+                    <RatingBar
+                        android:id="@+id/ratingBar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleX=".5"
+                        android:scaleY=".5"
+                        android:rating="0"
+                        android:stepSize="1"
+                        android:layout_weight="1"
+                        android:numStars="5"
+                        android:isIndicator="true"
+                        android:clickable="false"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="-50dp"
+                        android:layout_marginBottom="-20dp"/>
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

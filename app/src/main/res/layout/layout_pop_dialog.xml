@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cornerradious"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp">
+
+     <RelativeLayout
+               android:id="@+id/ltview"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="horizontal"
+               android:layout_marginLeft = "10dp"
+               android:layout_marginRight="10dp"
+               android:layout_marginTop="15dp">
+                  <TextView
+                      android:id="@+id/itemtitle"
+                      android:layout_width="wrap_content"
+                      android:layout_height="40dp"
+                      android:text="Reason"
+                      android:textColor="@android:color/black"
+                      android:fontFamily="@font/opensansbold"/>
+                  <Button
+                      android:id="@+id/cancel_obj"
+                      android:layout_width="30dp"
+                      android:layout_height="30dp"
+                      android:layout_gravity="center_horizontal"
+                      android:layout_alignParentRight="true"
+                      android:background="@drawable/closeicn"
+                      android:layout_marginBottom="20dp"
+                      android:fontFamily="@font/opensansbold"
+                      android:textSize="12dp"/>
+                  <ImageView
+                      android:layout_below="@+id/headertwo"
+                      android:layout_width="match_parent"
+                      android:layout_height="0.5dp"
+                      android:minHeight="0.5dp"
+                      android:background="@color/lightgray"
+                      android:layout_marginTop="40dp"/>
+           </RelativeLayout>
+
+    <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ltview">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true">
+
+        <TextView
+            android:id="@+id/itemdes"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            android:includeFontPadding="false"
+            android:gravity="center_horizontal"/>
+        </LinearLayout>
+</ScrollView>
+</RelativeLayout>

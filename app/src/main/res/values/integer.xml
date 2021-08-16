@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="card_flip_time_full">300</integer>
+    <integer name="card_flip_time_half">150</integer>
+    <integer name="btn_plus_view">1</integer>
+    <integer name="btn_plus_pos">2</integer>
+    <integer name="btn_minus_view">3</integer>
+    <integer name="btn_minus_pos">4</integer>
+    <integer name="btn_wishlist_pos">5</integer>
+    <integer name="btn_addcart_pos">6</integer>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center_vertical"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/viewbackground">
+
+    <LinearLayout
+        android:id="@+id/android_custom_gridview_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:background="@drawable/viewbackground">
+        <ImageView
+            android:id="@+id/android_gridview_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:id="@+id/android_gridview_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:layout_below="@+id/android_gridview_image"
+            android:layout_marginBottom="5dp"/>
+        <TextView
+            android:id="@+id/android_gridview_des"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:textSize="12sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:layout_below="@+id/android_gridview_text"
+            android:layout_marginBottom="5dp"
+            android:ellipsize="end"
+            android:maxLines="3"/>
+        <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
+            android:id="@+id/cirbuyButton"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            style="@style/buyButton"
+            app:spinning_bar_width="4dp"
+            app:spinning_bar_color="#FFF"
+            android:text="Buy"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/loginViewsMargin"
+            app:initialCornerAngle="27dp"
+            app:spinning_bar_padding="6dp"
+            android:textSize="13dp"
+            android:textAllCaps="false"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+
+
+</LinearLayout>
+

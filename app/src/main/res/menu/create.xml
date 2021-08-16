@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="document"
+        android:icon="@mipmap/ic_launcher"
+        />
+    <item
+        android:title="spreadsheet"
+        android:icon="@mipmap/ic_launcher"
+        />
+    <item
+        android:title="folder"
+        android:icon="@mipmap/ic_launcher"
+        />
+
+    <item
+        android:id="@+id/menu_subheader"
+        android:title="test"
+        >
+
+    </item>
+    <item
+        android:id="@+id/reopen"
+        android:title="reopen"
+        android:icon="@mipmap/ic_launcher"
+    />
+
+</menu>

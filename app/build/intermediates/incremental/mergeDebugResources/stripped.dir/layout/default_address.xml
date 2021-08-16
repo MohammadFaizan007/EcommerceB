@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_10dp"
+        android:padding="@dimen/margin_10dp"
+        android:background="@color/white">
+        <ImageView
+            android:id="@+id/imgLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_10dp"
+            android:src="@drawable/mydeliveryaddress"
+            android:layout_alignParentStart="true">
+        </ImageView>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/imgLocation"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/txvChangeAddressId"
+            android:layout_marginEnd="@dimen/margin_5dp"
+            android:layout_marginStart="@dimen/margin_5dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/address1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Palam Vihar Road"
+                android:textColor="@color/theme_secondary_text"
+                android:textSize="@dimen/text_size_14">
+            </TextView>
+            <TextView
+                android:id="@+id/address2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sector -2 "
+                android:textColor="@color/theme_secondary_text"
+                android:textSize="@dimen/text_size_14">
+            </TextView>
+            <TextView
+                android:id="@+id/address3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gurgaon -1 122017"
+                android:textColor="@color/theme_secondary_text"
+                android:textSize="@dimen/text_size_14">
+            </TextView>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/txvChangeAddressId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/change"
+            android:textColor="@color/account_header_color"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:padding="5dp"
+            android:background="@drawable/rectangle_corner"
+            android:textSize="@dimen/text_size_14">
+        </TextView>
+    </RelativeLayout>
+</LinearLayout>

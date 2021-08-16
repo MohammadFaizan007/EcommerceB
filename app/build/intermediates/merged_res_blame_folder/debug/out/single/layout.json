@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_account_list.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_account_list.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_two.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_two.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_account.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_validate_otp_enter_new_pass.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_validate_otp_enter_new_pass.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_orderlist_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_orderlist_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bottom_sheet_view.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/bottom_sheet_view.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar_header.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/toolbar_header.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_enter_email_phon_forgot.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_enter_email_phon_forgot.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/welcome_slide2.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/welcome_slide2.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_star.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_star.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/brandlist_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/brandlist_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_ratingpop_dialog.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_ratingpop_dialog.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_voice.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_voice.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/alert_dialog_listview_search.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/alert_dialog_listview_search.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_ordersummery.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_ordersummery.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/orderspinner.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/orderspinner.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_rating.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_rating.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/welcome_slide1.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/welcome_slide1.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_description.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_description.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_listing_filetr.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_listing_filetr.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/welcome_slide4.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/welcome_slide4.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_pop_productrating_dailog.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_pop_productrating_dailog.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_cartlist_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_cartlist_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_layout_reed.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_layout_reed.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcome.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_prodcts_varients.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_prodcts_varients.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_change_password.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_combo.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_combo.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/badge_icon_layout.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/badge_icon_layout.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_listview_single.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/item_listview_single.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_pop_shaoprating_dailog.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_pop_shaoprating_dailog.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_my_orders.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_my_orders.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_change_password.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_change_password.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_category.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_pop_dialog.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_pop_dialog.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/badge_text_count.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/badge_text_count.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_specifications.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_specifications.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_bottom_sheet.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/empty_message_layout_action.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/empty_message_layout_action.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_raiting.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_raiting.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_autofil.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_autofil.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_checkout_product.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_checkout_product.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/textview_for_spinner.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/textview_for_spinner.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_three.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_three.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_wishlist_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_wishlist_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_map.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_wishlist.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_wishlist.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_myorder_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_myorder_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_recylerview_list.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_recylerview_list.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bottom_bar_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/bottom_bar_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_offeres.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_offeres.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_item_details.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_item_details.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rating_dialog.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/rating_dialog.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/default_address.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/default_address.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_empty.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_empty.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_blank.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_image.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_basket.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_basket.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_forgot_password.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_submenu.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/list_submenu.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listitem_search.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/listitem_search.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/gridview.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/gridview.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_categorydetail.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_categorydetail.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_cart_list.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_cart_list.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_checkout.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my_account.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_my_account.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_address.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_address.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_orderdetails.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_orderdetails.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/spinner_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/speclist_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/speclist_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_filter.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/layout_filter.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/slidingimages_layout.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/slidingimages_layout.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/temp_file.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/temp_file.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/mok_items.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/mok_items.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_listview_multiple.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/item_listview_multiple.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_one.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_one.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bottom_sheet_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/bottom_sheet_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/progress_loading.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/progress_loading.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/listheader.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/listheader.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/welcome_slide3.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/welcome_slide3.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_address_listing.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_address_listing.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/pager_item.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/pager_item.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_addess_listing.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_addess_listing.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_make_payment.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/activity_make_payment.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_product_attribute.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/adapter_product_attribute.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_rating_list.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/fragment_rating_list.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/badgeic.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/badgeic.xml"
+    },
+    {
+        "merged": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nav_header_main.xml",
+        "source": "/Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/res/layout/nav_header_main.xml"
+    }
+]

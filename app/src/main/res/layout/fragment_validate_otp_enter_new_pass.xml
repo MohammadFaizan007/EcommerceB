@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".fragments.ValidateOtpEnterNewPassFragment">
+    <include layout="@layout/toolbar_header" />
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardUseCompatPadding="true"
+        android:layout_margin="@dimen/margin_10dp"
+        android:padding="@dimen/margin_10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="@dimen/margin_20dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/please_enter_otp"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:paddingStart="@dimen/margin_2dp"
+                android:layout_marginBottom="@dimen/margin_10dp" />
+            <com.chaos.view.PinView
+                android:id="@+id/pin_view"
+                style="@style/PinWidget.PinView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="0dp"
+                android:cursorVisible="true"
+                android:inputType="number"
+                android:itemBackground="#65EAEAEA"
+                app:cursorColor="@color/black"
+                app:hideLineWhenFilled="true"
+                app:itemCount="6"
+                app:itemHeight="40dp"
+                app:itemRadius="5dp"
+                app:itemWidth="40dp"
+                app:lineColor="@color/colorPrimary"
+                app:lineWidth="1dp" />
+            <TextView
+                android:id="@+id/txtVOtpErrorId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/please_enter_otp"
+                android:textSize="10sp"
+                android:paddingStart="@dimen/margin_2dp"
+                android:layout_marginTop="@dimen/margin_5dp"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:textColor="@color/red_color"
+                android:visibility="gone"
+                android:layout_marginBottom="@dimen/margin_10dp" />
+    <include layout="@layout/layout_change_password" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

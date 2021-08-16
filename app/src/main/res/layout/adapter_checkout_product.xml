@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txtVPrdName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:layout_alignParentStart="true"
+        android:textSize="@dimen/text_size_14" />
+    <TextView
+        android:id="@+id/txtVPrdPriceId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Price"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/text_size_14" />
+    <TextView
+        android:id="@+id/txtVPrdAttributes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:layout_alignParentStart="true"
+        android:textSize="@dimen/text_size_14"
+        android:layout_below="@+id/txtVPrdName"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/divider_gray"
+        android:layout_marginTop="@dimen/margin_10dp"
+        android:layout_marginBottom="@dimen/margin_10dp"
+        android:layout_below="@+id/txtVPrdAttributes" />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="1000dp"
+    android:paddingBottom="@dimen/margin_10dp"
+    android:weightSum="3">
+    <TextView
+        android:id="@+id/txtVShopnameId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_14"
+        android:gravity="start"
+        android:layout_weight="1">
+    </TextView>
+    <TextView
+        android:id="@+id/txtvPoints"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_14"
+        android:gravity="start"
+        android:layout_weight="1">
+    </TextView>
+    <TextView
+        android:id="@+id/txtVWorthvalue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_14"
+        android:gravity="start"
+        android:layout_weight="1">
+    </TextView>
+
+
+</LinearLayout>

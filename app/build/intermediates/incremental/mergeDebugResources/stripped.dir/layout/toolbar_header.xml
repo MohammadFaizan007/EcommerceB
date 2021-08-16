@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:id="@+id/onev"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/acaddressback"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="13dp"
+            android:layout_marginStart="@dimen/margin_10dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/back_icon" />
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"
+            android:fontFamily="@font/baloo"
+            android:gravity="center"
+            android:text="@string/my_account_add_address"
+            android:textAlignment="center"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

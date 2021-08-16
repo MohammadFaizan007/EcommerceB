@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="end|top"
+    android:layout_marginEnd="@dimen/margin_10dp"
+    android:layout_marginTop="-40dp">
+    <TextView
+        android:id="@+id/txtvBadgeCount"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:textSize="8sp"
+        android:text="0"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/badge_count">
+    </TextView>
+
+</LinearLayout>

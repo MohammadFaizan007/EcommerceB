@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="@dimen/margin_20dp"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:id="@+id/llRatingId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+        <TextView
+            android:id="@+id/txtV1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Delivery"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="@dimen/margin_20dp"
+            android:textSize="@dimen/text_size_14">
+
+        </TextView>
+        <com.chaek.android.RatingBar
+            android:id="@+id/ratingBarDelivery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hello World!"
+            app:rating_flag="FIVE"
+            app:rating_star_color="@color/yellow"
+            app:rating_star_empty_color="#8e7d7d"
+            app:rating_star_height="20dp"
+            android:layout_gravity="end"
+            app:rating_star_margin="5dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            app:rating_star_src="@drawable/star"
+            app:rating_star_width="20dp"
+            app:rating_start_count="3" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+        <TextView
+            android:id="@+id/txtV2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Professional"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="@dimen/margin_20dp"
+            android:textSize="@dimen/text_size_14">
+
+        </TextView>
+        <com.chaek.android.RatingBar
+            android:id="@+id/raingProfesional"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hello World!"
+            app:rating_flag="FIVE"
+            app:rating_star_color="@color/yellow"
+            app:rating_star_empty_color="#8e7d7d"
+            app:rating_star_height="20dp"
+            app:rating_star_margin="5dp"
+            app:rating_star_src="@drawable/star"
+            app:rating_star_width="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            app:rating_start_count="3" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+        <TextView
+            android:id="@+id/txtV3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Good Quality"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="@dimen/margin_20dp"
+            android:textSize="@dimen/text_size_14">
+
+        </TextView>
+        <com.chaek.android.RatingBar
+            android:id="@+id/goodQuality"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hello World!"
+            app:rating_flag="FIVE"
+            app:rating_star_color="@color/yellow"
+            app:rating_star_empty_color="#8e7d7d"
+            app:rating_star_height="20dp"
+            app:rating_star_margin="5dp"
+            app:rating_star_src="@drawable/star"
+            app:rating_star_width="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            app:rating_start_count="3" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/rlResponsiveid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Responsive"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="@dimen/margin_20dp"
+            android:textSize="@dimen/text_size_14">
+
+        </TextView>
+        <com.chaek.android.RatingBar
+            android:id="@+id/ratingResponsive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hello World!"
+            app:rating_flag="FIVE"
+            app:rating_star_color="@color/yellow"
+            app:rating_star_empty_color="#8e7d7d"
+            app:rating_star_height="20dp"
+            app:rating_star_margin="5dp"
+            app:rating_star_src="@drawable/star"
+            app:rating_star_width="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            app:rating_start_count="3" />
+
+    </RelativeLayout>
+
+</LinearLayout>

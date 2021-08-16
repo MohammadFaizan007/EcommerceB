@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+
+    <string name="item_1">Offers</string>
+    <string name="item_2">Electronics</string>
+    <string name="item_3">Lifestyle</string>
+    <string name="item_4">Home Appliances</string>
+    <string name="item_5">Books \u0026 More</string>
+    <string name="item_6">More</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_account">My Account</string>
+    <string name="my_account_add_address">Add Address</string>
+
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Help Center</string>
+
+    <string name="search_hint">Search for Products, Brands and More</string>
+
+
+    <!--Intro slider texts -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order Items from your Nearest Stores!
+    </string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome
+        slider -> clear data
+    </string>
+    <string name="play_again">Play Again</string>
+
+    <string name="title">Retail Shop</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new">Click here for register</string>
+    <string name="not_register">Not Register?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="Home">"HOME"</string>
+    <string name="Categories">"Categories"</string>
+    <string name="Search">"Search"</string>
+    <string name="Offers">"Combo offers"</string>
+    <string name="Basket">"Cart"</string>
+    <string name="searchhint">"Search 18000+ products"</string>
+    <string name="label_already_nhave_an_naccount">Already \nhave an \nAccount?</string>
+    <string name="label_forgot_password">Forgot Password?</string>
+    <string name="label_login">Login</string>
+    <string name="label_new_user_register_now">New user? Register Now</string>
+    <string name="label_use_other_methods">Use other Methods</string>
+    <string name="title_search_products">Search Products</string>
+    <string-array name="suggestions">
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Blueberry</item>
+        <item>Blackberry</item>
+        <item>Carrot</item>
+        <item>Cherry</item>
+        <item>Orange</item>
+        <item>Potato</item>
+        <item>Peach</item>
+        <item>Passion fruit</item>
+        <item>Pear</item>
+        <item>Strawberry</item>
+    </string-array>
+
+    <string-array name="itemsarray">
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Blueberry</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noresponse">Couldn\'t get json from server. Check LogCat for possible errors!</string>
+    <string name="select_store">SELECT STORE</string>
+    <string name="nostoresfound">No Stores Found!</string>
+    <string name="noproductsfound">No Products Found!</string>
+    <string name="nodatafound">No Data Found!</string>
+    <string name="demo_min_label">Min</string>
+    <string name="demo_max_label">Max</string>
+    <string name="search_brand">Search Brand...</string>
+    <string name="item_added_to_wishlist">Item added to Wishlist. </string>
+    <string name="item_removed_to_wishlist">Item removed from  Wishlist.</string>
+    <string name="added_into_cart">Added into Cart.</string>
+    <string name="please_add_quantity">Please add quantity.</string>
+    <string name="cart_has_been_updated">Cart successfully updated.</string>
+    <string name="cart_item_not_found">Cart Item not found.</string>
+    <string name="change">Change</string>
+    <string name="address_details">Address Details</string>
+    <string name="house_no">House no</string>
+    <string name="apartment_name">Apartment name</string>
+    <string name="street_details_to_locate_you">Street details to locate you</string>
+    <string name="landmark_for_easy_reach_out">Landmark for easy reach out</string>
+    <string name="area_details">Area Details</string>
+    <string name="enter_area_details">Enter Area Details</string>
+    <string name="city">City</string>
+    <string name="pincode">Pin Code</string>
+    <string name="choose_a_nick_name">Choose a Nick Name</string>
+    <string name="set_this_as_my_default_delivery_address">Set this as my default delivery address</string>
+    <string name="add_address">Add Address</string>
+    <string name="office">Office</string>
+    <string name="other">Other</string>
+    <string name="personal_details">Personal details</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_phone_number">Enter Phone number</string>
+    <string name="please_enter_house_no">Please Enter House No.</string>
+    <string name="please_enter_area_details">Please Enter Area details</string>
+    <string name="please_enter_city">Please Enter City</string>
+    <string name="address_added_successfully">Address added Successfully</string>
+    <string name="add_new_address">+Add new Address</string>
+    <string name="saved_address">Saved address</string>
+    <string name="view_all_revies">View all reviews</string>
+    <string name="please_enter_first_name">Please enter first name</string>
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="please_enter_phone">Please enter phone</string>
+    <string name="please_enter_valid_phone">Please enter valid 10 digits phone</string>
+    <string name="please_enter_email_id">Please enter email id</string>
+    <string name="please_enter_valid_email_id">Please enter valid email id</string>
+    <string name="please_enter_street_land_mark">Please enter landmark</string>
+    <string name="please_enter_street_details">Please enter street details</string>
+    <string name="please_enter_apartment">Please enter apartment number</string>
+    <string name="please_select_state">Please select state</string>
+    <string name="please_select_city">Please select city</string>
+    <string name="please_select_zipcode">Please select zip code</string>
+    <string name="email_id">Email id</string>
+    <string name="are_your_suee_want_to_delete">Are you sure want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="addresses">Addresses</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="street">Street</string>
+    <string name="landmark">Landmark</string>
+    <string name="state">State</string>
+    <string name="ratings">Ratings</string>
+    <string name="update_address">Update Address</string>
+    <string name="make_default">Make Default</string>
+    <string name="payment">Payment</string>
+    <string name="select_">Select</string>
+    <string name="delivery_addres">Delivery Address</string>
+    <string name="my_wish_list">My Wishlist</string>
+    <string name="no_product_added_in_wishlist">No Product Added in Wishlist</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="specification">Specification</string>
+    <string name="please_select_product_variant">Please select variant</string>
+    <string name="myorders">My Orders</string>
+    <string name="orderdetails">Order Details</string>
+    <string name="no_orders_available">No Orders Available</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="reward_points">Reward points</string>
+    <string name="points_worth">Points worth</string>
+    <string name="your_total_savings_on_this_card">Your Total savings on this card</string>
+    <string name="place_you_order_and_pay">Place you order and pay</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="select_payment_method">Select Payment method</string>
+    <string name="orderdescription">We will keep you posted about the status of the order via SMS. We will send you the exact payment amount when the order is ready for delivery.</string>
+    <string name="delivery_location">Delivery Location</string>
+    <string name="update">Update</string>
+    <string name="change_password">Change password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="new_password">New Password</string>
+    <string name="existing_password">Existing password</string>
+    <string name="enter_password">Please enter existing password</string>
+    <string name="enter_new_pass">Please enter new password</string>
+    <string name="pass_not_matched"><![CDATA[New & Confirm password is not matched]]></string>
+    <string name="enter_email_or_phone_number">Enter Email or Phone Number</string>
+    <string name="enter_email_or_phone">Please enter Phone or Email Id</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_">Reset</string>
+    <string name="please_enter_otp">Please Enter Otp</string>
+    <string name="please_enter_valid_otp">Please Enter valid 6 digit Otp</string>
+    <string name="resetpassword">Reset Password</string>
+    <string name="combo_products">Combo Products</string>
+</resources>

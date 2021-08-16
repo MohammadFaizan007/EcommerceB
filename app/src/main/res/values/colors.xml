@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#9C27B0</color>-->
+    <!--    <color name="colorPrimaryDark">#7B1FA2</color>-->
+    <!--    <color name="colorAccent">#8BC34A</color>-->
+
+    <color name="colorPrimary">#1C84C4</color>
+    <color name="colorPrimaryDark">#1C84C4</color>
+    <color name="colorAccent">#46A949</color>
+    <color name="lightYellow">#FFFF00</color>
+    <color name="yellow">#EAC100</color>
+    <color name="darkGrey">#3c454c</color>
+    <color name="list_even">#AAAAAA</color>
+    <color name="list_odd">#E1E2E2</color>
+    <color name="list_selected">#455FB6</color>
+    <color name="list_header">#99979C</color>
+    <color name="grayLight">#dcdcdc</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+
+    <!--    <color name="colorPrimary">#11CFC5</color>-->
+    <!--    <color name="colorPrimaryDark">#11CFC5</color>-->
+    <!--    <color name="colorAccent">#8BC34A</color>-->
+
+    <color name="gen_black">#000000</color>
+    <color name="gen_white">#FFFFFF</color>
+    <color name="green_light">#43A047</color>
+    <color name="background800">#424242</color>
+    <color name="grey_light">#E0E0E0</color>
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="stay_color">#999999</color>
+    <color name="lightgray">#9A9A9A</color>
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="cardbackround">#53BAD2</color>
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+    </array>
+    <!-- Screens background color-->
+
+    <color name="viewbackground">#E9EEEF</color>
+    <color name="register_bk_color">#1C84C4</color>
+    <color name="primaryTextColor">#1C84C4</color>
+
+    <color name="contentTextColor">#020000</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="bottomBarDefaultTextColor">#757575</color>
+
+
+    <color name="theme_primary">#2196F3</color>
+    <color name="theme_primary_dark">#1976D2</color>
+    <color name="theme_primary_light">#BBDEFB</color>
+
+    <color name="theme_background">#FFFFFF</color>
+    <color name="theme_background_inverse">#212121</color>
+
+    <color name="theme_accent_1">#212121</color>
+
+    <color name="theme_primary_trans">#99212121</color>
+
+    <color name="theme_primary_text">#212121</color>
+    <color name="theme_secondary_text">#727272</color>
+    <color name="theme_primary_text_inverted">#ffffff</color>
+    <color name="theme_secondary_text_inverted">#8affffff</color>
+    <color name="theme_icons">#FFFFFF</color>
+    <color name="theme_divider">#B6B6B6</color>
+
+    <color name="bg_screen1">#9C27B0</color>
+    <color name="buybtn">#6042B0</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#333333</color>
+    <color name="light_grey">#999999</color>
+    <color name="account_header_color">#F8807D</color>
+    <color name="gey_higligted_color">#F5E8E6E6</color>
+    <color name="ordercolor">#F5F2F2F2</color>
+    <color name="red_color">#FF0000</color>
+</resources>

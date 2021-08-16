@@ -1,0 +1,615 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+MERGED from [com.github.skydoves:powerspinner:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/211df27560c342428818f4e1f9fbe8bb/jetified-powerspinner-1.1.7/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/18339bc43b9ff8c7ce0d98c96c347985/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c4f50d0d61cee6fce4ad32b648aaeb44/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.andremion:counterfab:1.2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/437df3d925f1625d187d8743c914ade2/jetified-counterfab-1.2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/17d420c75b4105740ed2d3c9f449d88f/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05c32b3490bf06a2918fe97047729e56/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8456b9f6456a9a9d785a4f1f87955ad8/jetified-loading-button-android-1.14.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.miguelcatalan:materialsearchview:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf0dbb76c997ccc9b845ed210ebc9dd4/jetified-materialsearchview-1.3.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:2:1-23:12
+MERGED from [it.sephiroth.android.library.simplelogger:simple-logger:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7f0719e33a59146c56f11473542acbb8/jetified-simple-logger-1.0.0/AndroidManifest.xml:2:1-15:12
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.chaos.view:pinview:1.4.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6bd612d6a9dc087ae8aa8ce080cb3da8/jetified-pinview-1.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference-ktx:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/678e326a449640407b9676b417adf7c4/jetified-preference-ktx-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b8f050044909fc4cc2b52ab0dd3d00d6/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b1956f5892706138178c449e927e4454/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/0839d464e85525ef12014aea084b0799/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a5a4277c733c4a349baa3ef08e4bc29c/jetified-volley-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.prabhat1707:EasyWayLocation:2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/fac04c41ceec7a9aaa5a6005439d58b0/jetified-EasyWayLocation-2.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/77f3df79fc8ceb8d8322f33384801f4a/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/21b2f8c4934fe87d42339ab02abfc8e0/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/428f5cecd8945242eaf7add75ebc4612/jetified-core-ktx-1.7.0-alpha01/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c1f9d19d1f8fa838d4432dea177f9cfc/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5468b6d124980f1c04eb335794cd524b/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a57410d8d9a3ff8a8012f8117b3cb085/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.flipboard:bottomsheet-commons:1.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/decb25b91c3b948be0b4abb698908b59/jetified-bottomsheet-commons-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.flipboard:bottomsheet-core:1.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/9ac2f43d29761889d52558209562dcfd/jetified-bottomsheet-core-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/e275356a6d69a2d434bc99d3b6f99830/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd120d51b779a45f521115a8a7631539/jetified-play-services-location-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [co.lujun:androidtagview:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf8d7402173046e0c5f0c2524324e419/jetified-androidtagview-1.1.7/AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/1cfafbc0d9a48abbb9dbc5a6e07d1cb8/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/9456b370186f95c0bdad2c27ded31838/jetified-PhotoView-2.0.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.zongjingyao:actionsheet:0.1.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b25e336dbc8f3b4193b9e2832648e03/jetified-actionsheet-0.1.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.labo.kaji:fragmentanimations:0.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d4a173711460113d5a4b3a00a98fdd30/jetified-fragmentanimations-0.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.shallcheek:RatingBar:v1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/667d0998ca256cb8cd1256864c3d8e10/jetified-RatingBar-v1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ae579f0b8db3c911747fe9de92f627be/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8cec043d8b513c9feef981a9caa46e36/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd77f9c3b1ba1d3db6f6f0d64bdd0a3a/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/2ae9d48e5b749c35e3bd8effc55cd18c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47631867abb62a4af8279b051850bad1/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c7efbc49b908741e1dd9e6b8d052799b/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06e0ab29303745334eceb9d332dbe433/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8ca7c829947804562ae4867cac8631e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/278f1325d17e50556313fd9a82d43a43/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6d435ccfdd191e4d81f6c2718c955ba1/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b409163c302139e0934db5a8af128cb/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/26464a243d42e79ef05facc7a85e670f/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/26b11c860c085945d6de5f0c28c006ea/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6907953d0a7d1d2486a42d7669d94109/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/08e07fefea0910d0beac2bf17f42666b/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d254b705ed98d2ec38bc2782204b9c23/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c39a622ad4e17500f7ca0133da1740a0/jetified-glide-4.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/335f3da59a61bebe3073a557eb383035/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/e267f0a862123cf68af8ada901802073/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7fb1cd570e451bffb6d02e07f156542f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/91adf6356094fa5cb15bd4cdaaee6724/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/723bf7a9b1e28dba684225c23b3b02b0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a8933aa4ea08b46b29fdff0abf7a586e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/68404ef7a984e985c15df6c1eb9e97c8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/666fbe9733e528db770ad3f1a65e08e3/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47126f98d84edb5846d6918fa19aa7d3/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/10f0048531035bf03b17cf52744a00e4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7ddc3aee78238ec6182212302691b35b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/2b9f115ec444de7c147a93756d595599/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8c9e62f2f3ed9c7289054b190c533993/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/29e3a899bfad7e2b8258cc82392f1251/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf774764648a7aafbf58100cb7da67bd/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/57fe60d1d02702abe9da9eb9a6365645/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d092cb81ac40acce80e9026b0ace6dc6/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d10545cdd0fbfe0ae8d1f2f912803231/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/613b222302269d8d4e419d1f1919d164/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/11e54cba29486c4a1fe4475ab451d4bb/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/37ab54db1be70bc76ae8a24549ee1ea8/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c82c8c86ff737992f8f47cb5f4930bbd/jetified-gifdecoder-4.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/be408673b42216ade6e8436ea3acd427/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c5387369c2a3d90ae1facc369ba2ad9b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/eec8d07103b9982d60564031c4af401f/jetified-transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:1-90:12
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:11:5-67
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:11:5-88:19
+MERGED from [com.github.andremion:counterfab:1.2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/437df3d925f1625d187d8743c914ade2/jetified-counterfab-1.2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.andremion:counterfab:1.2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/437df3d925f1625d187d8743c914ade2/jetified-counterfab-1.2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/17d420c75b4105740ed2d3c9f449d88f/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/17d420c75b4105740ed2d3c9f449d88f/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05c32b3490bf06a2918fe97047729e56/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05c32b3490bf06a2918fe97047729e56/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf0dbb76c997ccc9b845ed210ebc9dd4/jetified-materialsearchview-1.3.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.miguelcatalan:materialsearchview:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf0dbb76c997ccc9b845ed210ebc9dd4/jetified-materialsearchview-1.3.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:13:5-21:19
+MERGED from [it.sephiroth.android.library.simplelogger:simple-logger:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7f0719e33a59146c56f11473542acbb8/jetified-simple-logger-1.0.0/AndroidManifest.xml:12:5-13:19
+MERGED from [it.sephiroth.android.library.simplelogger:simple-logger:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7f0719e33a59146c56f11473542acbb8/jetified-simple-logger-1.0.0/AndroidManifest.xml:12:5-13:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd120d51b779a45f521115a8a7631539/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd120d51b779a45f521115a8a7631539/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [co.lujun:androidtagview:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf8d7402173046e0c5f0c2524324e419/jetified-androidtagview-1.1.7/AndroidManifest.xml:11:5-12:19
+MERGED from [co.lujun:androidtagview:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf8d7402173046e0c5f0c2524324e419/jetified-androidtagview-1.1.7/AndroidManifest.xml:11:5-12:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/1cfafbc0d9a48abbb9dbc5a6e07d1cb8/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/1cfafbc0d9a48abbb9dbc5a6e07d1cb8/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.zongjingyao:actionsheet:0.1.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b25e336dbc8f3b4193b9e2832648e03/jetified-actionsheet-0.1.3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.zongjingyao:actionsheet:0.1.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b25e336dbc8f3b4193b9e2832648e03/jetified-actionsheet-0.1.3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6907953d0a7d1d2486a42d7669d94109/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6907953d0a7d1d2486a42d7669d94109/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/08e07fefea0910d0beac2bf17f42666b/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/08e07fefea0910d0beac2bf17f42666b/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d254b705ed98d2ec38bc2782204b9c23/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d254b705ed98d2ec38bc2782204b9c23/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c39a622ad4e17500f7ca0133da1740a0/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c39a622ad4e17500f7ca0133da1740a0/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47126f98d84edb5846d6918fa19aa7d3/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47126f98d84edb5846d6918fa19aa7d3/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c82c8c86ff737992f8f47cb5f4930bbd/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c82c8c86ff737992f8f47cb5f4930bbd/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:14:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:13:9-44
+	tools:ignore
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:15:9-48
+	android:allowBackup
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:17:9-52
+activity#com.inlog.ecommerce.myaccount.AccountActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:19:9-21:59
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:20:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:19:19-60
+activity#com.inlog.ecommerce.activity.ForgotPasswordActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:22:9-25:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:25:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:23:13-60
+activity#com.inlog.ecommerce.activity.ordersummeryActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:26:9-67
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:26:19-64
+activity#com.inlog.ecommerce.activity.CheckoutActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:27:19-60
+activity#com.inlog.ecommerce.activity.orderdetailsActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:28:9-67
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:28:19-64
+activity#com.inlog.ecommerce.activity.MyOrdersActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:29:19-60
+activity#com.inlog.ecommerce.activity.WishlistActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:30:19-60
+activity#com.inlog.ecommerce.activity.MakePaymentActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:34:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:32:13-57
+activity#com.inlog.ecommerce.activity.RatingActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:36:13-52
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:39:9-41:71
+	android:value
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:41:13-68
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:40:13-58
+uses-library#org.apache.http.legacy
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:43:9-45:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:44:13-50
+activity#com.inlog.ecommerce.activity.SplashActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:47:9-60:20
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:48:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:54:27-74
+meta-data#android.app.default_searchable
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:57:13-59:66
+	android:value
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:59:17-63
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:58:17-62
+activity#com.inlog.ecommerce.activity.LoginActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:61:9-64:59
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:62:13-51
+activity#com.inlog.ecommerce.activity.RegisterActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:65:9-63
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:65:19-60
+activity#com.inlog.ecommerce.activity.mapactivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:67:13-49
+activity#com.inlog.ecommerce.activity.MainActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:69:9-73:59
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:72:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:71:13-47
+	android:theme
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:70:13-50
+activity#com.inlog.ecommerce.activity.ItemDetailsActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:74:9-79:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:79:13-49
+	android:parentActivityName
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:78:13-71
+	android:label
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:77:13-44
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:76:13-47
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:75:13-57
+activity#com.inlog.ecommerce.activity.CartListActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:83:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:82:13-47
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:81:13-54
+activity#com.inlog.ecommerce.activity.ProductListActivity
+ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:84:9-87:52
+	android:screenOrientation
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:87:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:86:13-47
+	android:name
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml:85:13-57
+uses-sdk
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+MERGED from [com.github.skydoves:powerspinner:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/211df27560c342428818f4e1f9fbe8bb/jetified-powerspinner-1.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.skydoves:powerspinner:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/211df27560c342428818f4e1f9fbe8bb/jetified-powerspinner-1.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/18339bc43b9ff8c7ce0d98c96c347985/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/18339bc43b9ff8c7ce0d98c96c347985/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c4f50d0d61cee6fce4ad32b648aaeb44/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c4f50d0d61cee6fce4ad32b648aaeb44/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.github.andremion:counterfab:1.2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/437df3d925f1625d187d8743c914ade2/jetified-counterfab-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.andremion:counterfab:1.2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/437df3d925f1625d187d8743c914ade2/jetified-counterfab-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/17d420c75b4105740ed2d3c9f449d88f/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/17d420c75b4105740ed2d3c9f449d88f/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05c32b3490bf06a2918fe97047729e56/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05c32b3490bf06a2918fe97047729e56/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8456b9f6456a9a9d785a4f1f87955ad8/jetified-loading-button-android-1.14.0/AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8456b9f6456a9a9d785a4f1f87955ad8/jetified-loading-button-android-1.14.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf0dbb76c997ccc9b845ed210ebc9dd4/jetified-materialsearchview-1.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf0dbb76c997ccc9b845ed210ebc9dd4/jetified-materialsearchview-1.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:7:5-44
+MERGED from [it.sephiroth.android.library.simplelogger:simple-logger:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7f0719e33a59146c56f11473542acbb8/jetified-simple-logger-1.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [it.sephiroth.android.library.simplelogger:simple-logger:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7f0719e33a59146c56f11473542acbb8/jetified-simple-logger-1.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:imageslider] /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/imageslider/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.chaos.view:pinview:1.4.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6bd612d6a9dc087ae8aa8ce080cb3da8/jetified-pinview-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.chaos.view:pinview:1.4.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6bd612d6a9dc087ae8aa8ce080cb3da8/jetified-pinview-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/678e326a449640407b9676b417adf7c4/jetified-preference-ktx-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/678e326a449640407b9676b417adf7c4/jetified-preference-ktx-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b8f050044909fc4cc2b52ab0dd3d00d6/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b8f050044909fc4cc2b52ab0dd3d00d6/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b1956f5892706138178c449e927e4454/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/b1956f5892706138178c449e927e4454/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/0839d464e85525ef12014aea084b0799/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/0839d464e85525ef12014aea084b0799/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a5a4277c733c4a349baa3ef08e4bc29c/jetified-volley-1.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a5a4277c733c4a349baa3ef08e4bc29c/jetified-volley-1.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.github.prabhat1707:EasyWayLocation:2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/fac04c41ceec7a9aaa5a6005439d58b0/jetified-EasyWayLocation-2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.prabhat1707:EasyWayLocation:2.2] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/fac04c41ceec7a9aaa5a6005439d58b0/jetified-EasyWayLocation-2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/77f3df79fc8ceb8d8322f33384801f4a/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/77f3df79fc8ceb8d8322f33384801f4a/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/21b2f8c4934fe87d42339ab02abfc8e0/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/21b2f8c4934fe87d42339ab02abfc8e0/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/428f5cecd8945242eaf7add75ebc4612/jetified-core-ktx-1.7.0-alpha01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/428f5cecd8945242eaf7add75ebc4612/jetified-core-ktx-1.7.0-alpha01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c1f9d19d1f8fa838d4432dea177f9cfc/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c1f9d19d1f8fa838d4432dea177f9cfc/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5468b6d124980f1c04eb335794cd524b/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5468b6d124980f1c04eb335794cd524b/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a57410d8d9a3ff8a8012f8117b3cb085/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a57410d8d9a3ff8a8012f8117b3cb085/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.flipboard:bottomsheet-commons:1.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/decb25b91c3b948be0b4abb698908b59/jetified-bottomsheet-commons-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-commons:1.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/decb25b91c3b948be0b4abb698908b59/jetified-bottomsheet-commons-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-core:1.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/9ac2f43d29761889d52558209562dcfd/jetified-bottomsheet-core-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-core:1.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/9ac2f43d29761889d52558209562dcfd/jetified-bottomsheet-core-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/e275356a6d69a2d434bc99d3b6f99830/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/e275356a6d69a2d434bc99d3b6f99830/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd120d51b779a45f521115a8a7631539/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd120d51b779a45f521115a8a7631539/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [co.lujun:androidtagview:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf8d7402173046e0c5f0c2524324e419/jetified-androidtagview-1.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [co.lujun:androidtagview:1.1.7] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bf8d7402173046e0c5f0c2524324e419/jetified-androidtagview-1.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/1cfafbc0d9a48abbb9dbc5a6e07d1cb8/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/1cfafbc0d9a48abbb9dbc5a6e07d1cb8/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/9456b370186f95c0bdad2c27ded31838/jetified-PhotoView-2.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/9456b370186f95c0bdad2c27ded31838/jetified-PhotoView-2.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.zongjingyao:actionsheet:0.1.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b25e336dbc8f3b4193b9e2832648e03/jetified-actionsheet-0.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zongjingyao:actionsheet:0.1.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b25e336dbc8f3b4193b9e2832648e03/jetified-actionsheet-0.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.labo.kaji:fragmentanimations:0.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d4a173711460113d5a4b3a00a98fdd30/jetified-fragmentanimations-0.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.labo.kaji:fragmentanimations:0.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d4a173711460113d5a4b3a00a98fdd30/jetified-fragmentanimations-0.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shallcheek:RatingBar:v1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/667d0998ca256cb8cd1256864c3d8e10/jetified-RatingBar-v1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shallcheek:RatingBar:v1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/667d0998ca256cb8cd1256864c3d8e10/jetified-RatingBar-v1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ae579f0b8db3c911747fe9de92f627be/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ae579f0b8db3c911747fe9de92f627be/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8cec043d8b513c9feef981a9caa46e36/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8cec043d8b513c9feef981a9caa46e36/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd77f9c3b1ba1d3db6f6f0d64bdd0a3a/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/bd77f9c3b1ba1d3db6f6f0d64bdd0a3a/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/2ae9d48e5b749c35e3bd8effc55cd18c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/2ae9d48e5b749c35e3bd8effc55cd18c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47631867abb62a4af8279b051850bad1/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47631867abb62a4af8279b051850bad1/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c7efbc49b908741e1dd9e6b8d052799b/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c7efbc49b908741e1dd9e6b8d052799b/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06e0ab29303745334eceb9d332dbe433/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06e0ab29303745334eceb9d332dbe433/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8ca7c829947804562ae4867cac8631e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8ca7c829947804562ae4867cac8631e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/278f1325d17e50556313fd9a82d43a43/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/278f1325d17e50556313fd9a82d43a43/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6d435ccfdd191e4d81f6c2718c955ba1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6d435ccfdd191e4d81f6c2718c955ba1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b409163c302139e0934db5a8af128cb/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/5b409163c302139e0934db5a8af128cb/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/26464a243d42e79ef05facc7a85e670f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/26464a243d42e79ef05facc7a85e670f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/26b11c860c085945d6de5f0c28c006ea/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/26b11c860c085945d6de5f0c28c006ea/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6907953d0a7d1d2486a42d7669d94109/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/6907953d0a7d1d2486a42d7669d94109/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/08e07fefea0910d0beac2bf17f42666b/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/08e07fefea0910d0beac2bf17f42666b/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d254b705ed98d2ec38bc2782204b9c23/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d254b705ed98d2ec38bc2782204b9c23/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c39a622ad4e17500f7ca0133da1740a0/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c39a622ad4e17500f7ca0133da1740a0/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/335f3da59a61bebe3073a557eb383035/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/335f3da59a61bebe3073a557eb383035/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/e267f0a862123cf68af8ada901802073/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/e267f0a862123cf68af8ada901802073/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7fb1cd570e451bffb6d02e07f156542f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7fb1cd570e451bffb6d02e07f156542f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/91adf6356094fa5cb15bd4cdaaee6724/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/91adf6356094fa5cb15bd4cdaaee6724/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/723bf7a9b1e28dba684225c23b3b02b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/723bf7a9b1e28dba684225c23b3b02b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a8933aa4ea08b46b29fdff0abf7a586e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a8933aa4ea08b46b29fdff0abf7a586e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/68404ef7a984e985c15df6c1eb9e97c8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/68404ef7a984e985c15df6c1eb9e97c8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/666fbe9733e528db770ad3f1a65e08e3/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/666fbe9733e528db770ad3f1a65e08e3/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0-alpha01] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/24124ab789e23b570332e070b8794493/core-1.7.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47126f98d84edb5846d6918fa19aa7d3/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/47126f98d84edb5846d6918fa19aa7d3/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/10f0048531035bf03b17cf52744a00e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/10f0048531035bf03b17cf52744a00e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7ddc3aee78238ec6182212302691b35b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/7ddc3aee78238ec6182212302691b35b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/2b9f115ec444de7c147a93756d595599/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/2b9f115ec444de7c147a93756d595599/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8c9e62f2f3ed9c7289054b190c533993/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/8c9e62f2f3ed9c7289054b190c533993/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/29e3a899bfad7e2b8258cc82392f1251/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/29e3a899bfad7e2b8258cc82392f1251/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf774764648a7aafbf58100cb7da67bd/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf774764648a7aafbf58100cb7da67bd/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/57fe60d1d02702abe9da9eb9a6365645/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/57fe60d1d02702abe9da9eb9a6365645/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d092cb81ac40acce80e9026b0ace6dc6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d092cb81ac40acce80e9026b0ace6dc6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d10545cdd0fbfe0ae8d1f2f912803231/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/d10545cdd0fbfe0ae8d1f2f912803231/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/613b222302269d8d4e419d1f1919d164/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/613b222302269d8d4e419d1f1919d164/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/11e54cba29486c4a1fe4475ab451d4bb/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/11e54cba29486c4a1fe4475ab451d4bb/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/37ab54db1be70bc76ae8a24549ee1ea8/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/37ab54db1be70bc76ae8a24549ee1ea8/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c82c8c86ff737992f8f47cb5f4930bbd/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c82c8c86ff737992f8f47cb5f4930bbd/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/be408673b42216ade6e8436ea3acd427/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/be408673b42216ade6e8436ea3acd427/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c5387369c2a3d90ae1facc369ba2ad9b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c5387369c2a3d90ae1facc369ba2ad9b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/eec8d07103b9982d60564031c4af401f/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/eec8d07103b9982d60564031c4af401f/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bobshaik/BSLApps/AndroidApps/bsl_inlogecommerce/Ecommerce/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [com.github.salehyarahmadi:AndExAlertDialog:v1.0.1] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/05e1263c65ad1d1d62c56c8d70cb1593/jetified-AndExAlertDialog-v1.0.1/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.4.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/53af24f4978b3b1ed4d971ad49eecb70/jetified-places-2.4.0/AndroidManifest.xml:15:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/ce83b9b2c0d0a078e211199756d78403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/cf8b603c8d87818b08027ae3fe95c318/jetified-transport-backend-cct-2.3.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/721f16941fd6ac0ff45a8c2d19d9bad3/jetified-transport-runtime-2.2.3/AndroidManifest.xml:33:13-132
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/06a42a23855750a52b3e261e7f10dbb1/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/a74c65aafae3aae8e5dc4e4c8b9d6e5c/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/bobshaik/Desktop/AddtoCart-master-2/gradle/caches/transforms-2/files-2.1/c8a8bd4553850e54d20fed5c0fdd0e7a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="2">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_weight="1">
+    <ImageView
+        android:id="@+id/imgStar"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:src="@drawable/star"
+        android:visibility="gone"
+        android:layout_marginStart="@dimen/margin_5dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/txtVStarCount"
+        app:tint="@color/light_grey">
+    </ImageView>
+    <TextView
+        android:id="@+id/txtVStarCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5"
+        android:layout_centerVertical="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_14"
+        android:layout_marginStart="@dimen/margin_5dp"
+        android:layout_alignParentStart="true" />
+
+</LinearLayout>
+    <ProgressBar
+        android:layout_weight="1"
+        android:id="@+id/p_Bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:indeterminate="false"
+        android:max="5"
+        android:minHeight="30dip"
+        android:maxHeight="30dip"
+        android:scaleY="2"
+        android:layout_centerVertical="true"
+        android:progress="1"
+        android:layout_marginStart="@dimen/margin_5dp"
+        android:layout_marginEnd="@dimen/margin_5dp"
+        android:layout_toEndOf="@+id/imgStar"
+        android:layout_toStartOf="@+id/txtVEndTotal"/>
+    <TextView
+        android:id="@+id/txtVEndTotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="59889"
+        android:layout_centerVertical="true"
+        android:textSize="@dimen/text_size_14"
+        android:layout_gravity="center_vertical"
+        android:visibility="visible"
+        android:layout_alignParentEnd="true"
+        ></TextView>
+</LinearLayout>
